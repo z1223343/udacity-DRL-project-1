@@ -17,3 +17,19 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 - **`1`** - move backward.
 - **`2`** - turn left.
 - **`3`** - turn right.
+
+### Instructions
+
+The project consists of 5 files:
+* navigation-main.ipynb - the main codes of this navigation project
+* dqn_agent.py - the Agent class
+* model.py - the DQN model
+* checkpoint.pth - saved trained model to use
+* README.md - the instructions about how to get started and what is the approach
+
+To download the Unity Environment, you need only select the environment that matches your operating system:
+    - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+    - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
+    - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
+    - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+    
