@@ -67,7 +67,7 @@ Here is a figure showing the scores that my agent achieved during the hundreds o
 
 <img src="assets/results.png" width="75%" align="top-left" alt="" title="Best Agent Graph" />
 
-The complete set of results and steps can be found in [here](Navigation-main.ipynb)
+The complete set of results and steps can be found in [here](navigation-main.ipynb).
 
 ### Future Improvements
 Here's a list of optimizations that can be applied to the project:
