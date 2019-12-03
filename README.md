@@ -65,9 +65,9 @@ Experience replay allows the RL agent to learn from past experience. Each experi
 
 Here is a figure showing the scores that my agent achieved during the hundreds of training episodes.
 
-<img src="assets/best-agent-graph.png" width="75%" align="top-left" alt="" title="Best Agent Graph" />
+<img src="assets/results.png" width="75%" align="top-left" alt="" title="Best Agent Graph" />
 
-The complete set of results and steps can be found in [here](Navigation-main.html)
+The complete set of results and steps can be found in [here](Navigation-main.ipynb)
 
 ### Future Improvements
 Here's a list of optimizations that can be applied to the project:
